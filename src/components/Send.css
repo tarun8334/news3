@@ -1,0 +1,156 @@
+.back2{
+background :#161A33;
+
+}
+
+.recieve2{
+    /* position: absolute; */
+/* width: 114px; */
+/* height: 19px; */
+/* left: 42px; */
+/* top: 62px; */
+padding-left: 0;
+align-items: left;
+font-family: 'Gilroy-Medium';
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #F8F9FA;
+}
+
+.back_button1{
+    width:auto;
+    height:auto;
+    padding-bottom: 1;
+    padding-left: 1;
+    margin-left: -30px;    
+}
+.coin_image1{
+margin-left: -30px;
+padding-left: 0px;
+}
+
+
+.text_solana{
+    font-family: 'Gilroy-SemiBold';
+    font-size: 16px;
+    /* line-height: 19px; */
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 2px;
+    margin-left: 0px;
+    color: #FFFFFF;
+}
+
+.name_solana{
+    font-family: 'Gilroy-SemiBold';
+    font-size: 10px;
+    /* line-height: 12px; */
+    /* identical to box height */
+    margin-top: 0px;
+    margin-left: 0px;
+    padding: 0px;
+    color: #B9C1D9;
+    
+}
+.text_avail{
+    font-family: 'Gilroy-Regular';
+    font-size: 11px;
+    /* line-height: 13px; */
+    /* identical to box height */
+    /* margin-left: 0px; */
+    text-align: right;
+    margin-right:0;
+    padding: 0px;
+
+    color: #B9C1D9;
+}
+.amount_avail{
+    font-family: 'Gilroy-SemiBold';
+font-size: 15px;
+text-align: right;
+/* line-height: 21px; */
+letter-spacing: 0.06em;
+
+color: #FFFFFF;
+}
+.enter_address1{
+    font-family: 'Gilroy-Regular';
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #B9C1D9;
+
+}
+.amount1{
+    font-family: 'Gilroy-Regular';
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    
+    color: #B9C1D9;
+    
+}
+
+.note1{
+    font-family: 'Gilroy-Regular';
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    
+    color: #B9C1D9;
+    
+}
+.trans_fee{
+    font-family: 'Gilroy-Regular';
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #B9C1D9;
+}
+.smll_qr{
+    align-items: center;
+   /* // margin-top: 5; */
+    padding-top: 10px;
+}
+
+.spacing1{
+    padding:5px;
+    }
+    
+    .share_button1{
+        background: #613AF1;
+    /* Small */
+    
+    
+    padding:18px;
+    /* margin-bottom: 10px !; */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.075);
+    border-radius: 12px;
+    }
+    
+    .share_text1{
+        font-family: 'Gilroy-SemiBold';
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    text-align: center;
+    text-transform: capitalize;
+    
+    /* Alt BG */
+    
+    color: #F8F9FA;
+    }
+    
+    .spacing_21{
+        padding: 2px;
+    }

@@ -1,0 +1,140 @@
+.back{
+background :#161A33;
+
+}
+
+.recieve{
+    /* position: absolute; */
+/* width: 114px; */
+/* height: 19px; */
+/* left: 42px; */
+/* top: 62px; */
+padding-left: 0;
+align-items: left;
+font-family: 'Gilroy-Medium';
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #F8F9FA;
+}
+
+.back_button{
+    width:auto;
+    height:auto;
+    padding-bottom: 1;
+    padding-left: 1;
+    margin-left: -30px;
+}
+.qrcode_display{
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.075);
+border-radius: 8px;
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.075);
+
+}
+.coin_image_row{
+    margin:30px;
+
+}
+.scan_text{
+    font-family: 'Gilroy-SemiBold';
+font-size: 16px;
+/* line-height: 19px; */
+margin:20px;
+color: #B9C1D9;
+text-align:center;
+
+}
+.add_text{
+    font-family: 'Gilroy-SemiBold';
+font-size: 16px;
+/* line-height: 19px; */
+/* margin:20px; */
+color: #B9C1D9;
+text-align:center;
+
+}
+.add_real_text{
+    font-family: 'Gilroy-SemiBold';
+font-size: 14px;
+/* line-height: 19px; */
+/* margin:20px; */
+color: #B9C1D9;
+text-align:center;
+
+}
+.qr_image{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    align-self: center;
+}
+.row{
+    margin:30px;
+}
+.or_box{
+    background: #FFFFFF;
+border-radius: 15px;
+}
+
+
+.box_add_real{
+    
+background: #161A33;
+border: 1px solid #252A4D;
+border-radius: 4px;
+}
+
+
+.copy_box{
+    background: #F2ECFF;
+border: 1px solid #613AF1;
+border-radius: 4px;
+padding:10px;
+}
+
+.copy_text{
+    font-family: 'Gilroy-Medium';
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+/* identical to box height */
+
+
+color: #613AF1;
+}
+
+.spacing{
+padding:70px;
+}
+
+.share_button{
+    background: #613AF1;
+/* Small */
+
+
+padding:18px;
+/* margin-bottom: 10px !; */
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.075);
+border-radius: 12px;
+}
+
+.share_text{
+    font-family: 'Gilroy-SemiBold';
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+text-align: center;
+text-transform: capitalize;
+
+/* Alt BG */
+
+color: #F8F9FA;
+}
+
+.spacing_2{
+    padding: 2px;
+}

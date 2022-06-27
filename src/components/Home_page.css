@@ -1,0 +1,181 @@
+@import url(//db.onlinewebfonts.com/c/1dc8ecd8056a5ea7aa7de1db42b5b639?family=Gilroy);
+@import url(//db.onlinewebfonts.com/c/040a78b437acd0433612f92e61d04a1b?family=Gilroy-Medium);
+@import url(//db.onlinewebfonts.com/c/000833a3a58fb083c44b9de42c2ff0a2?family=Gilroy+SemiBold);
+.back3{
+    background: #0E1327;
+    margin-top: -30px;
+    height: 100vh;
+    margin-bottom: 0px;
+}
+
+
+.polygon{
+    margin-left:-30px;
+}
+
+.dollar{
+    margin-right:-20px;
+    padding:0;
+    justify-content: right;
+    align-items: right;
+    align-content: right;
+
+}
+
+.top_bar{
+    margin-right:-30px;
+}
+.upper_box{
+    background: #252A4D;
+border-radius: 12px;
+}
+
+
+.upper_box_text1{
+    font-family: 'Gilroy-Medium';
+    font-size: 18px;
+    padding-top:10px;
+    line-height: 21px;
+    
+    color: #FFFFFF;
+}
+.upper_box_text2{
+    font-family: 'Gilroy-Medium';
+    font-size: 12px;
+    line-height: 14px;
+    margin-top:-15px;
+    
+    color: #FFFFFF;
+    
+}
+
+.upper_box_button2{
+    box-sizing: border-box;
+
+/* Auto layout */
+margin-top:-10px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 10px;
+
+    background: #F8F9FA;
+/* Small */
+
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.075);
+border-radius: 12px;
+font-family: 'Gilroy-Medium';
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+/* padding:15px; */
+margin-bottom:15px;
+
+color: #7661F6;
+}
+.top_option{
+    background: #252A4D;
+    border-radius: 12px;
+}
+
+.top_option_coin{
+font-family: 'Gilroy-SemiBold';
+font-size: 14px;
+line-height: 12px;
+/* identical to box height, or 100% */
+padding:18px;
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #F8F9FA;
+}
+.top_option_news{
+    font-family: 'Gilroy-Regular';
+    font-size: 14px;
+    line-height: 12px;
+    /* identical to box height, or 100% */
+    text-align: center;
+    /* text-align: right; */
+    letter-spacing: 0.1em;
+    padding:18px;
+    color: #B9C1D9;
+    
+    
+}
+.home_image{
+/* margin-left: -20px; */
+}
+.wallet_image{
+    /* margin-left: 5px; */
+    /* padding-left: 10px; */
+}
+.reverse_image{
+   align-content: center;
+justify-content: center;
+align-self: center;
+align-items: center;
+   /* margin-left: 5px; */
+   /* marg */
+   /* margin-right: -10px; */
+   /* padding-left: 12%; */
+}
+
+.bottom_bar{
+    align-items: center;
+    height: 15%;
+    bottom: 0px;
+}
+
+.swap{
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+.story_heading{
+    font-family: 'Gilroy-SemiBold';
+font-size: 20px;
+line-height: 20px;
+/* identical to box height, or 100% */
+
+
+color: #FFFFFF;
+}
+.head_news{
+    font-family: 'Gilroy-Medium';
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+
+
+color: #FFFFFF;
+}
+.back6{
+height : 80px;
+
+    background: #252A4D;
+border-radius: 12px;
+padding-top: 5px;
+padding-right: 10px;
+padding-left: 10px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: -5px;
+margin-bottom: 20px;
+}
+.new_imgp{
+    align-items: center;
+    padding-left: -10px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 100px;
+    width: 120%;
+    height: 45%;
+    margin-left: -10px;
+}
+.news_flex{
+    height : 42vh;
+width  : 100%;
+overflow: scroll;
+}
